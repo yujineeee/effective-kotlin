@@ -46,3 +46,4 @@ fun main() {
     getPrimeV1()
     getPrimeWithSequence(25)
     getPrimeWithSequenceButWrong(25) //잘못된 결과
+}
