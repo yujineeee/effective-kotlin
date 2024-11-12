@@ -1,7 +1,7 @@
 package com.study.chapter01.item07
 
 import com.study.chapter01.item05.e_nullability.Person
-
+/*
 //NOTE null로 처리하는 법
 inline fun <reified T> String.readObjectOrNull() : T? {
     //어우 동작하게는 못짜겠다..
@@ -42,3 +42,4 @@ fun main() {
     //
 
 }
+ */
